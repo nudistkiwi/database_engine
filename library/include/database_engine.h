@@ -18,7 +18,7 @@ pairs.insert(std::make_pair(a,b));
 private:	
 //#typedef std::map<std::string const&,std::vector<string const&> > table
 //#typedef std::map<std::pair<std::string const&,std::string const&>,std::pair<std::string const&,std::string const&>> link;
-#typedef std::pair<std::string,std::string> dpair;
+typedef std::pair<std::string,std::string> dpair;
 //#typedef std::set<dpair> ;
 
 
