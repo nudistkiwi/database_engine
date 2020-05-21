@@ -1,2 +1,2 @@
-add_executable(example example.cpp)
-target_link_libraries(example csv_engine)
+add_executable(utest example.cpp)
+target_link_libraries(utest csv_engine xlsx2string)
